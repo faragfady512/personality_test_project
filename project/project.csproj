@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D11C1C13-7BA9-40C4-AF3F-151D3135BD0A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="anx1Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anx1Result.Designer.cs">
+      <DependentUpon>anx1Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anx2Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anx2Result.Designer.cs">
+      <DependentUpon>anx2Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anx3Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anx3Result.Designer.cs">
+      <DependentUpon>anx3Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anxiety.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anxiety.Designer.cs">
+      <DependentUpon>Anxiety.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bord1Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bord1Result.Designer.cs">
+      <DependentUpon>bord1Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bord2Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bord2Result.Designer.cs">
+      <DependentUpon>bord2Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bord3Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bord3Result.Designer.cs">
+      <DependentUpon>bord3Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bord4Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bord4Result.Designer.cs">
+      <DependentUpon>bord4Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BorderlinePersonalityDisorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorderlinePersonalityDisorder.Designer.cs">
+      <DependentUpon>BorderlinePersonalityDisorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Dep2Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dep2Result.Designer.cs">
+      <DependentUpon>Dep2Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep3Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dep3Result.Designer.cs">
+      <DependentUpon>Dep3Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep4Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dep4Result.Designer.cs">
+      <DependentUpon>Dep4Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep5Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dep5Result.Designer.cs">
+      <DependentUpon>Dep5Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstForm.Designer.cs">
+      <DependentUpon>FirstForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Depression.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Depression.Designer.cs">
+      <DependentUpon>Depression.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoBorderline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoBorderline.Designer.cs">
+      <DependentUpon>InfoBorderline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoDepression.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoDepression.Designer.cs">
+      <DependentUpon>InfoDepression.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information.Designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformationAnxiety.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationAnxiety.Designer.cs">
+      <DependentUpon>InformationAnxiety.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreFirstForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreFirstForm.Designer.cs">
+      <DependentUpon>PreFirstForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl2.Designer.cs">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ1.Designer.cs">
+      <DependentUpon>UserControlAnxQ1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ10.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ10.Designer.cs">
+      <DependentUpon>UserControlAnxQ10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ2.Designer.cs">
+      <DependentUpon>UserControlAnxQ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ3.Designer.cs">
+      <DependentUpon>UserControlAnxQ3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ4.Designer.cs">
+      <DependentUpon>UserControlAnxQ4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ5.Designer.cs">
+      <DependentUpon>UserControlAnxQ5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ6.Designer.cs">
+      <DependentUpon>UserControlAnxQ6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ7.Designer.cs">
+      <DependentUpon>UserControlAnxQ7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ8.Designer.cs">
+      <DependentUpon>UserControlAnxQ8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ9.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlAnxietyQ\UserControlAnxQ9.Designer.cs">
+      <DependentUpon>UserControlAnxQ9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ1.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ10.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ10.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ2.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ3.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ4.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ5.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ6.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ7.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ8.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ9.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBorderlineQ\UserControlBorderlineQ9.Designer.cs">
+      <DependentUpon>UserControlBorderlineQ9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ1.Designer.cs">
+      <DependentUpon>UserControlDepQ1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ10.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ10.Designer.cs">
+      <DependentUpon>UserControlDepQ10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ2.Designer.cs">
+      <DependentUpon>UserControlDepQ2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ3.Designer.cs">
+      <DependentUpon>UserControlDepQ3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ4.Designer.cs">
+      <DependentUpon>UserControlDepQ4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ5.Designer.cs">
+      <DependentUpon>UserControlDepQ5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ6.Designer.cs">
+      <DependentUpon>UserControlDepQ6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ7.Designer.cs">
+      <DependentUpon>UserControlDepQ7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ8.Designer.cs">
+      <DependentUpon>UserControlDepQ8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ9.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDepQ\UserControlDepQ9.Designer.cs">
+      <DependentUpon>UserControlDepQ9.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="anx1Result.resx">
+      <DependentUpon>anx1Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anx2Result.resx">
+      <DependentUpon>anx2Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anx3Result.resx">
+      <DependentUpon>anx3Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anxiety.resx">
+      <DependentUpon>Anxiety.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bord1Result.resx">
+      <DependentUpon>bord1Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bord2Result.resx">
+      <DependentUpon>bord2Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bord3Result.resx">
+      <DependentUpon>bord3Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bord4Result.resx">
+      <DependentUpon>bord4Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BorderlinePersonalityDisorder.resx">
+      <DependentUpon>BorderlinePersonalityDisorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep2Result.resx">
+      <DependentUpon>Dep2Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep3Result.resx">
+      <DependentUpon>Dep3Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep4Result.resx">
+      <DependentUpon>Dep4Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep5Result.resx">
+      <DependentUpon>Dep5Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstForm.resx">
+      <DependentUpon>FirstForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Depression.resx">
+      <DependentUpon>Depression.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoBorderline.resx">
+      <DependentUpon>InfoBorderline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoDepression.resx">
+      <DependentUpon>InfoDepression.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationAnxiety.resx">
+      <DependentUpon>InformationAnxiety.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreFirstForm.resx">
+      <DependentUpon>PreFirstForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl2.resx">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ1.resx">
+      <DependentUpon>UserControlAnxQ1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ10.resx">
+      <DependentUpon>UserControlAnxQ10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ2.resx">
+      <DependentUpon>UserControlAnxQ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ3.resx">
+      <DependentUpon>UserControlAnxQ3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ4.resx">
+      <DependentUpon>UserControlAnxQ4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ5.resx">
+      <DependentUpon>UserControlAnxQ5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ6.resx">
+      <DependentUpon>UserControlAnxQ6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ7.resx">
+      <DependentUpon>UserControlAnxQ7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ8.resx">
+      <DependentUpon>UserControlAnxQ8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlAnxietyQ\UserControlAnxQ9.resx">
+      <DependentUpon>UserControlAnxQ9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ1.resx">
+      <DependentUpon>UserControlBorderlineQ1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ10.resx">
+      <DependentUpon>UserControlBorderlineQ10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ2.resx">
+      <DependentUpon>UserControlBorderlineQ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ3.resx">
+      <DependentUpon>UserControlBorderlineQ3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ4.resx">
+      <DependentUpon>UserControlBorderlineQ4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ5.resx">
+      <DependentUpon>UserControlBorderlineQ5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ6.resx">
+      <DependentUpon>UserControlBorderlineQ6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ7.resx">
+      <DependentUpon>UserControlBorderlineQ7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ8.resx">
+      <DependentUpon>UserControlBorderlineQ8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBorderlineQ\UserControlBorderlineQ9.resx">
+      <DependentUpon>UserControlBorderlineQ9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ1.resx">
+      <DependentUpon>UserControlDepQ1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ10.resx">
+      <DependentUpon>UserControlDepQ10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ2.resx">
+      <DependentUpon>UserControlDepQ2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ3.resx">
+      <DependentUpon>UserControlDepQ3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ4.resx">
+      <DependentUpon>UserControlDepQ4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ5.resx">
+      <DependentUpon>UserControlDepQ5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ6.resx">
+      <DependentUpon>UserControlDepQ6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ7.resx">
+      <DependentUpon>UserControlDepQ7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ8.resx">
+      <DependentUpon>UserControlDepQ8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDepQ\UserControlDepQ9.resx">
+      <DependentUpon>UserControlDepQ9.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7f1f9f5d-f818-4842-b4f1-b1d5927967bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\594de05da3f11c96d2e2c288cf72ff57.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonAnxiety.png" />
+    <Content Include="Resources\button_Depression2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

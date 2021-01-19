@@ -1,0 +1,463 @@
+C:\Users\Fady\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\Fady\source\repos\project\project\bin\Debug\project.exe
+C:\Users\Fady\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.exe
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.Anxiety.resources
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.FirstForm.resources
+C:\Users\Fady\source\repos\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\project 2\project\project\bin\Debug\project.exe.config
+C:\Users\Asem_\Desktop\project 2\project\project\bin\Debug\project.exe
+C:\Users\Asem_\Desktop\project 2\project\project\bin\Debug\project.pdb
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.Anxiety.resources
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.FirstForm.resources
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.Depression.resources
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.exe
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.pdb
+C:\Users\Asem_\Desktop\project 2\project\project\obj\Debug\project.ResultForm.resources
+C:\Users\me\Desktop\new\new\project\bin\Debug\project.exe.config
+C:\Users\me\Desktop\new\new\project\bin\Debug\project.exe
+C:\Users\me\Desktop\new\new\project\bin\Debug\project.pdb
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.Depression.resources
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.exe
+C:\Users\me\Desktop\new\new\project\obj\Debug\project.pdb
+C:\Users\Asem_\Desktop\new\new\new\project\bin\Debug\project.exe.config
+C:\Users\Asem_\Desktop\new\new\new\project\bin\Debug\project.exe
+C:\Users\Asem_\Desktop\new\new\new\project\bin\Debug\project.pdb
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.Depression.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.UserControl1.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.exe
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.pdb
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.Dep2Result.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.UserControl2.resources
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\new\new\new\project\obj\Debug\project.Dep3Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\bin\Debug\project.exe.config
+C:\Users\Asem_\Desktop\new\new\new\new\project\bin\Debug\project.exe
+C:\Users\Asem_\Desktop\new\new\new\new\project\bin\Debug\project.pdb
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.Dep2Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.Dep3Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.Depression.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControl1.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControl2.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.exe
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.pdb
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.anx1Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.anx2Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.anx3Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.bord1Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.bord2Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.bord3Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.bord4Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.Dep4Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.Dep5Result.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ1.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ2.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ10.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ3.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ4.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ5.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ6.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ7.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ8.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ9.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ1.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ10.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ2.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ3.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ4.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ5.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ6.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ7.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ8.resources
+C:\Users\Asem_\Desktop\new\new\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ9.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\bin\Debug\project.exe.config
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\bin\Debug\project.exe
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\bin\Debug\project.pdb
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.anx1Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.anx2Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.anx3Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.bord1Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.bord2Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.bord3Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.bord4Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.Dep2Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.Dep3Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.Dep4Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.Dep5Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.Depression.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControl1.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControl2.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ1.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ10.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ2.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ3.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ4.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ5.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ6.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ7.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ8.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ9.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ1.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ10.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ2.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ3.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ4.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ5.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ6.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ7.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ8.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.UserControlDepQ9.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.exe
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.pdb
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\new (1)\new\project\bin\Debug\project.exe.config
+C:\Users\Asem_\Desktop\new (1)\new\project\bin\Debug\project.exe
+C:\Users\Asem_\Desktop\new (1)\new\project\bin\Debug\project.pdb
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.anx1Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.anx2Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.anx3Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.bord1Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.bord2Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.bord3Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.bord4Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Dep2Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Dep3Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Dep4Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Dep5Result.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Depression.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControl1.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControl2.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ1.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ10.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ2.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ3.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ4.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ5.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ6.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ7.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ8.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ9.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ1.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ10.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ2.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ3.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ4.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ5.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ6.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ7.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ8.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlDepQ9.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.exe
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.pdb
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ1.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ10.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ2.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ3.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ4.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ5.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ6.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ7.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ8.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ9.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\bin\Debug\Guna.UI2.dll
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.PreFirstForm.resources
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\Asem_\Desktop\new (1)\new\project\obj\Debug\project.Information.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\bin\Debug\project.exe.config
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\bin\Debug\project.exe
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\bin\Debug\project.pdb
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.anx1Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.anx2Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.anx3Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.bord1Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.bord2Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.bord3Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.bord4Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Dep2Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Dep3Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Dep4Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Dep5Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Depression.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Information.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.PreFirstForm.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControl1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControl2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ10.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ3.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ4.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ5.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ6.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ7.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ8.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ9.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ10.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ3.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ4.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ5.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ6.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ7.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ8.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ9.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ10.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ3.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ4.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ5.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ6.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ7.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ8.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ9.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.exe
+C:\Users\Asem_\Desktop\new (1)1\new (1)\new\project\obj\Debug\project.pdb
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\bin\Debug\project.exe.config
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\bin\Debug\project.exe
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\bin\Debug\project.pdb
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.anx1Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.anx2Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.anx3Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord1Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord2Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord3Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord4Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep2Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep3Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep4Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep5Result.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Depression.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Information.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.PreFirstForm.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControl1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControl2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ10.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ3.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ4.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ5.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ6.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ7.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ8.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ9.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ10.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ3.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ4.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ5.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ6.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ7.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ8.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ9.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ1.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ10.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ2.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ3.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ4.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ5.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ6.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ7.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ8.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ9.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.exe
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.pdb
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.InfoDepression.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.InfoBorderline.resources
+C:\Users\Asem_\Desktop\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.InformationAnxiety.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\bin\Debug\project.exe.config
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\bin\Debug\project.exe
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\bin\Debug\project.pdb
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.anx1Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.anx2Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.anx3Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Anxiety.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord1Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord2Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord3Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.bord4Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep2Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep3Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep4Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Dep5Result.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.FirstForm.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Depression.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.InfoBorderline.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.InfoDepression.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Information.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.InformationAnxiety.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.PreFirstForm.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.ResultForm.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControl1.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControl2.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ1.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ10.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ2.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ3.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ4.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ5.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ6.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ7.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ8.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ9.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ1.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ10.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ2.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ3.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ4.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ5.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ6.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ7.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ8.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlBorderlineQ9.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ1.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ10.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ2.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ3.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ4.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ5.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ6.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ7.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ8.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.UserControlDepQ9.resources
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.exe
+C:\Users\انجىعزتمحمودحسنابوسل\Downloads\new (1)1\new (1)1\new (1)\new\project\obj\Debug\project.pdb
+D:\Computer science\oop\Personality Test Project\project\bin\Debug\project.exe.config
+D:\Computer science\oop\Personality Test Project\project\bin\Debug\project.exe
+D:\Computer science\oop\Personality Test Project\project\bin\Debug\project.pdb
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.csprojAssemblyReference.cache
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.anx1Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.anx2Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.anx3Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Anxiety.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.bord1Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.bord2Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.bord3Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.bord4Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.BorderlinePersonalityDisorder.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Dep2Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Dep3Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Dep4Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Dep5Result.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.FirstForm.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Depression.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.InfoBorderline.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.InfoDepression.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Information.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.InformationAnxiety.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.PreFirstForm.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.Properties.Resources.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.ResultForm.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControl1.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControl2.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ1.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ10.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ2.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ3.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ4.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ5.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ6.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ7.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ8.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ.UserControlAnxQ9.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ1.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ10.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ2.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ3.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ4.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ5.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ6.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ7.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ8.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlBorderlineQ9.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ1.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ10.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ2.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ3.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ4.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ5.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ6.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ7.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ8.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.UserControlDepQ9.resources
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.csproj.CopyComplete
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.exe
+D:\Computer science\oop\Personality Test Project\project\obj\Debug\project.pdb
